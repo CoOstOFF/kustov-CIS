@@ -1,2 +1,2 @@
-# coostoff.github.io/kustov-CIS/
+# coostoff.github.io/CV-CIS
 Konstantin Kustov | Android Software Engineer | personal page

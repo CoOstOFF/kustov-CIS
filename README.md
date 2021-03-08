@@ -1,2 +1,2 @@
-# konstantinkustov.github.io/CV
+# konstantinkustov.github.io/CV-CIS
 Konstantin Kustov | Android Software Engineer | personal page
